@@ -1,6 +1,14 @@
 # arch_viz
 architecture visualization of an interior house
 
+3d model is from turbosquid(free) 
+
+uv's are unwrapped in 3ds max
+
+using unreal datasmith for the workflow 
+
+most of the materials are from substance
+
 # work in progress
 
 rendered on preview build 
