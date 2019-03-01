@@ -1,0 +1,1689 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E3</SDKVersion>
+	<Host>Autodesk 3dsmax 21.0.845Scanline Renderer</Host>
+	<Application Vendor="Autodesk" ProductName="3dsmax" ProductVersion="21.0.845"/>
+	<User ID="0d4b5519428e3041ecbc6b81d6f0ee67" OS="Windows 8"/>
+	<StaticMesh name="3" label="Box002">
+		<file path="house_unwrapped_Assets/3.udsmesh"/>
+		<Size a="248877.84375" x="322.561951" y="250.227081" z="20.385532"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ece8393577b64530e5495e468ba0bb2a"/>
+		<Material id="0" name="bed"/>
+	</StaticMesh>
+	<StaticMesh name="4" label="Box003">
+		<file path="house_unwrapped_Assets/4.udsmesh"/>
+		<Size a="45384.980469" x="58.072266" y="118.545357" z="22.821899"/>
+		<LightmapUV value="-1"/>
+		<Hash value="267b6a6f639dd6cec447aa55a558f5c8"/>
+		<Material id="0" name="study_table"/>
+	</StaticMesh>
+	<StaticMesh name="5" label="Box006">
+		<file path="house_unwrapped_Assets/5.udsmesh"/>
+		<Size a="288167.53125" x="68.466217" y="63.262268" z="381.927612"/>
+		<LightmapUV value="-1"/>
+		<Hash value="347879eb32ecce0ef5e37052a0b68517"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="6" label="Box015">
+		<file path="house_unwrapped_Assets/6.udsmesh"/>
+		<Size a="28880.023438" x="178.607712" y="49.364075" z="13.463017"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bde11a01a46cd5d886b8d23cee12d3d6"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="7" label="Box016">
+		<file path="house_unwrapped_Assets/7.udsmesh"/>
+		<Size a="25997.335938" x="160.747223" y="49.364075" z="13.463016"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d44f7584a804280d9530d176a5df684c"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="8" label="Box018">
+		<file path="house_unwrapped_Assets/8.udsmesh"/>
+		<Size a="1032582.75" x="73.674728" y="333.390991" z="381.095734"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8e6574b12210b1c83df071da56be1b97"/>
+		<Material id="0" name="alhmari"/>
+	</StaticMesh>
+	<StaticMesh name="9" label="Box020">
+		<file path="house_unwrapped_Assets/9.udsmesh"/>
+		<Size a="123723.921875" x="379.675903" y="1490.096924" z="59.366405"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b9a6073a82ba04cdf63c4b3b97cc81de"/>
+		<Material id="0" name="tv_s_base_floor"/>
+		<Material id="1" name="double_sopha_wood_right_texture"/>
+	</StaticMesh>
+	<StaticMesh name="10" label="Box022">
+		<file path="house_unwrapped_Assets/10.udsmesh"/>
+		<Size a="42300.609375" x="178.607727" y="1810.281494" z="32.314133"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3458b89ebece0d285596068e4473da95"/>
+		<Material id="0" name="wire_115115115"/>
+		<Material id="1" name="double_sopha_wood_right_texture"/>
+	</StaticMesh>
+	<StaticMesh name="11" label="Object002">
+		<file path="house_unwrapped_Assets/11.udsmesh"/>
+		<Size a="652052.75" x="294.891693" y="243.806488" z="381.635498"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0f5359fea49302410941f9c98497cfd4"/>
+		<Material id="0" name="wire_115115115"/>
+		<Material id="1" name="tv_s_base_floor"/>
+		<Material id="2" name="toilet_tile"/>
+		<Material id="3" name="Material__73"/>
+	</StaticMesh>
+	<StaticMesh name="12" label="Box026">
+		<file path="house_unwrapped_Assets/12.udsmesh"/>
+		<Size a="133458.171875" x="170.259491" y="832.699036" z="220.728271"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8621964b5853059583bb417c5d940d13"/>
+		<Material id="0" name="toilet_wood_stor_2"/>
+		<Material id="1" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="13" label="Box027">
+		<file path="house_unwrapped_Assets/13.udsmesh"/>
+		<Size a="44159.894531" x="56.421021" y="44.614594" z="33.483543"/>
+		<LightmapUV value="-1"/>
+		<Hash value="779f926f043917cde5c5498e3b4a644a"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="14" label="Box028">
+		<file path="house_unwrapped_Assets/14.udsmesh"/>
+		<Size a="46759.851563" x="73.870316" y="43.085503" z="15.998962"/>
+		<LightmapUV value="-1"/>
+		<Hash value="70daf1fbf8d7ee90e883cd0d040aaf95"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="15" label="Object003">
+		<file path="house_unwrapped_Assets/15.udsmesh"/>
+		<Size a="56632.5625" x="104.620567" y="22.623535" z="127.804665"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ac1f64436c31c630d0087b5c48d46c1b"/>
+		<Material id="0" name="toilet_wood_stor_1"/>
+	</StaticMesh>
+	<StaticMesh name="16" label="Box029">
+		<file path="house_unwrapped_Assets/16.udsmesh"/>
+		<Size a="393945.375" x="497.505219" y="1388.147583" z="258.674622"/>
+		<LightmapUV value="-1"/>
+		<Hash value="321790de533e9460c70869dce974c5ba"/>
+		<Material id="0" name="tv_s_back_wall"/>
+		<Material id="1" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="17" label="Box030">
+		<file path="house_unwrapped_Assets/17.udsmesh"/>
+		<Size a="7761.681641" x="29.595566" y="239.410492" z="1.316223"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0eb794d7b9d4034697d2c2c9b9aa0e04"/>
+		<Material id="0" name="tv_s_base_floor"/>
+	</StaticMesh>
+	<StaticMesh name="18" label="Box031">
+		<file path="house_unwrapped_Assets/18.udsmesh"/>
+		<Size a="7761.69043" x="29.595566" y="239.410492" z="1.316238"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6848e3eb18e9affb4488baec5e820be0"/>
+		<Material id="0" name="tv_s_base_floor"/>
+	</StaticMesh>
+	<StaticMesh name="19" label="Box035">
+		<file path="house_unwrapped_Assets/19.udsmesh"/>
+		<Size a="70762.304688" x="3.253235" y="361.260101" z="58.774811"/>
+		<LightmapUV value="-1"/>
+		<Hash value="61854233858bbeb50d4ac3a0adef0681"/>
+		<Material id="0" name="scenre"/>
+	</StaticMesh>
+	<StaticMesh name="20" label="Cylinder002">
+		<file path="house_unwrapped_Assets/20.udsmesh"/>
+		<Size a="2636.394287" x="31.18866" y="31.188652" z="16.08252"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9f75150ca3e7a2889909182570ce16a1"/>
+		<Material id="0" name="transtucent_lamp"/>
+	</StaticMesh>
+	<StaticMesh name="21" label="Cylinder001">
+		<file path="house_unwrapped_Assets/21.udsmesh"/>
+		<Size a="278.258698" x="1.835907" y="1.835899" z="40.725853"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a0769f8d9f09384c7627d7fdca2f0cb1"/>
+		<Material id="0" name="transtucent_lamp"/>
+	</StaticMesh>
+	<StaticMesh name="22" label="Sphere001">
+		<file path="house_unwrapped_Assets/22.udsmesh"/>
+		<Size a="141.052612" x="19.004272" y="19.00428" z="0.380493"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f357f01f635eace7c10bd7f8dd3a98d1"/>
+		<Material id="0" name="transtucent_lamp"/>
+	</StaticMesh>
+	<StaticMesh name="23" label="Cylinder003">
+		<file path="house_unwrapped_Assets/23.udsmesh"/>
+		<Size a="2636.39917" x="31.18866" y="31.188354" z="16.08252"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a044a7015ccc9f00e80ea55cbc0a801a"/>
+		<Material id="0" name="transtucent_lamp"/>
+	</StaticMesh>
+	<StaticMesh name="24" label="Cylinder004">
+		<file path="house_unwrapped_Assets/24.udsmesh"/>
+		<Size a="278.231201" x="1.835663" y="1.835876" z="40.725853"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b3235e86824188de8c80d5e7ff5855e7"/>
+		<Material id="0" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="25" label="Sphere002">
+		<file path="house_unwrapped_Assets/25.udsmesh"/>
+		<Size a="141.051727" x="19.004272" y="19.004211" z="0.380493"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e6e4bb71b4ea7465e0bfa9b523b89e33"/>
+		<Material id="0" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="26" label="Line001">
+		<file path="house_unwrapped_Assets/26.udsmesh"/>
+		<Size a="2406.048584" x="40.290756" y="40.306946" z="13.315948"/>
+		<LightmapUV value="-1"/>
+		<Hash value="28211c6c251b01d17ee19605d1c0fa93"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="27" label="Box038">
+		<file path="house_unwrapped_Assets/27.udsmesh"/>
+		<Size a="141756.203125" x="325.080383" y="240.232666" z="54.071266"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f3011e5efbad30488b62c91120dcdb4f"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="28" label="Box039">
+		<file path="house_unwrapped_Assets/28.udsmesh"/>
+		<Size a="8559.911133" x="46.809921" y="91.881165" z="34.437572"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c2a62506539d1449cca7be09a6ef7792"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="29" label="Box040">
+		<file path="house_unwrapped_Assets/29.udsmesh"/>
+		<Size a="6715.569336" x="46.083466" y="91.048035" z="27.730446"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fac41fcbb4d4838eb543c32ea0fd8a70"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="30" label="Cylinder019">
+		<file path="house_unwrapped_Assets/30.udsmesh"/>
+		<Size a="63.393513" x="8.848595" y="8.848598" z="1.665466"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c6891dea377728d964072d164f4088ca"/>
+		<Material id="0" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="31" label="Box041">
+		<file path="house_unwrapped_Assets/31.udsmesh"/>
+		<Size a="3522.024658" x="45.463211" y="45.013115" z="2.012177"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1ceec2044d84cad1c64c0a93e49c6514"/>
+		<Material id="0" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="32" label="Cylinder018">
+		<file path="house_unwrapped_Assets/32.udsmesh"/>
+		<Size a="73.911232" x="3.519165" y="3.519421" z="16.185394"/>
+		<LightmapUV value="-1"/>
+		<Hash value="aea3b9b6c23571d66defe5bdc0c5a741"/>
+		<Material id="0" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="33" label="Box043">
+		<file path="house_unwrapped_Assets/33.udsmesh"/>
+		<Size a="2195.491943" x="7.309875" y="22.973022" z="28.960068"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b12bd5c16147fe662bfb7cca0edd8a9a"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="34" label="Box044">
+		<file path="house_unwrapped_Assets/34.udsmesh"/>
+		<Size a="3385.987305" x="10.042145" y="28.786072" z="35.964874"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2c996129903ffa04e5f3c8f799b151a5"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="35" label="Cylinder061">
+		<file path="house_unwrapped_Assets/35.udsmesh"/>
+		<Size a="58.41291" x="3.24205" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7b0194fffad8577a5b59c137ea3889f0"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="36" label="Cylinder062">
+		<file path="house_unwrapped_Assets/36.udsmesh"/>
+		<Size a="58.414833" x="3.24205" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dd9e30db2cd516289bc10037a8cd97d4"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="37" label="Cylinder059">
+		<file path="house_unwrapped_Assets/37.udsmesh"/>
+		<Size a="58.412064" x="3.24205" y="3.241821" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="96cfd51e728f8e44473d8225d9448c4c"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="38" label="Cylinder060">
+		<file path="house_unwrapped_Assets/38.udsmesh"/>
+		<Size a="58.414917" x="3.24205" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="da2d014e73768c12f20ffaedb6fc2156"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="39" label="Box045">
+		<file path="house_unwrapped_Assets/39.udsmesh"/>
+		<Size a="45537.648438" x="117.613937" y="96.792358" z="1.651254"/>
+		<LightmapUV value="-1"/>
+		<Hash value="76f96e03c51678ec0bf58e0c85f51fd6"/>
+		<Material id="0" name="sopha_wood_texture"/>
+	</StaticMesh>
+	<StaticMesh name="40" label="Box025">
+		<file path="house_unwrapped_Assets/40.udsmesh"/>
+		<Size a="30533.722656" x="110.397041" y="18.57196" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cfcb307ebcf9641ee18c70bd11db8d19"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="41" label="Box019">
+		<file path="house_unwrapped_Assets/41.udsmesh"/>
+		<Size a="89907.789063" x="126.814323" y="89.376282" z="18.571972"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e91199a52facaf0b2daf2681c6e0394a"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="42" label="Cylinder052">
+		<file path="house_unwrapped_Assets/42.udsmesh"/>
+		<Size a="47.884335" x="2.675629" y="3.053345" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8fc1125993d4c3df7ca3b1b1e18b9e4f"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="43" label="Cylinder051">
+		<file path="house_unwrapped_Assets/43.udsmesh"/>
+		<Size a="47.888767" x="2.675629" y="3.053284" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="663d6851a32a17adb8794f4e29e32658"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="44" label="Box023">
+		<file path="house_unwrapped_Assets/44.udsmesh"/>
+		<Size a="24043.191406" x="16.276062" y="89.376465" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e3cdbaecde5d424853371b312fabb21b"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="45" label="Box024">
+		<file path="house_unwrapped_Assets/45.udsmesh"/>
+		<Size a="24043.15625" x="16.276062" y="89.376465" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="53a93b7ca3f449266fcb27f7f4790e4f"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="46" label="Box046">
+		<file path="house_unwrapped_Assets/46.udsmesh"/>
+		<Size a="5119.38916" x="1.362976" y="91.154968" z="18.611088"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dc698dfbaa350a6d8d2209c909636cc3"/>
+		<Material id="0" name="double_sopha_wood_right_texture"/>
+	</StaticMesh>
+	<StaticMesh name="47" label="Box021">
+		<file path="house_unwrapped_Assets/47.udsmesh"/>
+		<Size a="89907.9375" x="126.814072" y="89.376282" z="18.571972"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5835d59a7695e925ffc0ccdcfec3b8b7"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="48" label="Cylinder053">
+		<file path="house_unwrapped_Assets/48.udsmesh"/>
+		<Size a="47.885654" x="2.675629" y="3.053345" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1cb00f134279310b545832106fb95711"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="49" label="Cylinder054">
+		<file path="house_unwrapped_Assets/49.udsmesh"/>
+		<Size a="47.890091" x="2.675629" y="3.053284" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c7078f0e8496398a9f69da869b28272b"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="50" label="Box017">
+		<file path="house_unwrapped_Assets/50.udsmesh"/>
+		<Size a="70579.734375" x="256.633209" y="91.154968" z="1.555242"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b290007777ed3ba526397ee2c726d39"/>
+		<Material id="0" name="20___Default"/>
+	</StaticMesh>
+	<StaticMesh name="51" label="Box047">
+		<file path="house_unwrapped_Assets/51.udsmesh"/>
+		<Size a="87348.132813" x="95.230194" y="115.624084" z="19.720562"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9aaf6fea001b5eaf0ae32e936d413d45"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="52" label="Cylinder063">
+		<file path="house_unwrapped_Assets/52.udsmesh"/>
+		<Size a="57.180073" x="3.241821" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="03ce75d7b679956a5a4d3ebd443391a5"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="53" label="Cylinder064">
+		<file path="house_unwrapped_Assets/53.udsmesh"/>
+		<Size a="57.181274" x="3.241806" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3725661a09649d34193157d3676a153c"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="54" label="Cylinder065">
+		<file path="house_unwrapped_Assets/54.udsmesh"/>
+		<Size a="57.178642" x="3.241821" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc9cdf5148f3c5e817d9522777600cfa"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="55" label="Cylinder066">
+		<file path="house_unwrapped_Assets/55.udsmesh"/>
+		<Size a="57.179836" x="3.241806" y="3.242065" z="13.324078"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c12cf1d664b2f8bc41401487a0b3e453"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="56" label="Box048">
+		<file path="house_unwrapped_Assets/56.udsmesh"/>
+		<Size a="34347.773438" x="96.792282" y="117.614197" z="1.651254"/>
+		<LightmapUV value="-1"/>
+		<Hash value="80dd06b1cf4d7bf2cde7a085112a3f29"/>
+		<Material id="0" name="sopha_wood_texture"/>
+	</StaticMesh>
+	<StaticMesh name="57" label="Box049">
+		<file path="house_unwrapped_Assets/57.udsmesh"/>
+		<Size a="89907.773438" x="89.376266" y="126.814331" z="18.571972"/>
+		<LightmapUV value="-1"/>
+		<Hash value="51d14754e63bce3894d29905c245f0a8"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="58" label="Box050">
+		<file path="house_unwrapped_Assets/58.udsmesh"/>
+		<Size a="30533.724609" x="18.57196" y="110.397034" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b6f871095e2273c175cd4e13e5dd895c"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="59" label="Cylinder067">
+		<file path="house_unwrapped_Assets/59.udsmesh"/>
+		<Size a="47.883053" x="3.05307" y="2.675659" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a7099d7b668a3573f67e8b47e207338e"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="60" label="Cylinder068">
+		<file path="house_unwrapped_Assets/60.udsmesh"/>
+		<Size a="47.883026" x="3.053085" y="2.675659" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="78bfd6f0ee90505fd9f9d3db540cab0c"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="61" label="Box051">
+		<file path="house_unwrapped_Assets/61.udsmesh"/>
+		<Size a="30480.917969" x="18.57196" y="110.192871" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9a334921eeea8ad5ae2b179618471123"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="62" label="Box052">
+		<file path="house_unwrapped_Assets/62.udsmesh"/>
+		<Size a="24043.074219" x="89.376266" y="16.276062" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="61ad2d25239221fe33d9d16d08f86633"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="63" label="Box053">
+		<file path="house_unwrapped_Assets/63.udsmesh"/>
+		<Size a="24043.191406" x="89.376266" y="16.276062" z="32.873947"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ee667d5cda8e3f8d3fffabc709abe296"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="64" label="Box054">
+		<file path="house_unwrapped_Assets/64.udsmesh"/>
+		<Size a="5119.396484" x="91.154999" y="1.36319" z="18.611088"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9267e3d6cc050fd34216f34f44cc216e"/>
+		<Material id="0" name="double_sopha_wood_right_texture"/>
+	</StaticMesh>
+	<StaticMesh name="65" label="Box055">
+		<file path="house_unwrapped_Assets/65.udsmesh"/>
+		<Size a="89907.75" x="89.376266" y="126.81427" z="18.571972"/>
+		<LightmapUV value="-1"/>
+		<Hash value="36f08c7b6944f50bf5a502e0092d82e0"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="66" label="Box056">
+		<file path="house_unwrapped_Assets/66.udsmesh"/>
+		<Size a="14372.871094" x="1.555237" y="256.608307" z="18.611088"/>
+		<LightmapUV value="-1"/>
+		<Hash value="87ab4aaaddec1128de0c24f277499d5b"/>
+		<Material id="0" name="double_sopha_wood_right_texture"/>
+	</StaticMesh>
+	<StaticMesh name="67" label="Cylinder069">
+		<file path="house_unwrapped_Assets/67.udsmesh"/>
+		<Size a="47.884266" x="3.05307" y="2.675659" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc7b8bafe1f091a18da64ed632f6fbfa"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="68" label="Cylinder070">
+		<file path="house_unwrapped_Assets/68.udsmesh"/>
+		<Size a="47.884094" x="3.053085" y="2.675659" z="12.548107"/>
+		<LightmapUV value="-1"/>
+		<Hash value="43d0a0a7bd3e9df56afead3a1fea903d"/>
+		<Material id="0" name="crome"/>
+	</StaticMesh>
+	<StaticMesh name="69" label="Box057">
+		<file path="house_unwrapped_Assets/69.udsmesh"/>
+		<Size a="70579.828125" x="91.154999" y="256.633484" z="1.555242"/>
+		<LightmapUV value="-1"/>
+		<Hash value="38529c18f6a1010d9cbb595680d23853"/>
+		<Material id="0" name="20___Default"/>
+	</StaticMesh>
+	<StaticMesh name="70" label="Box058">
+		<file path="house_unwrapped_Assets/70.udsmesh"/>
+		<Size a="5119.390625" x="91.154999" y="1.362976" z="18.611088"/>
+		<LightmapUV value="-1"/>
+		<Hash value="319103bc39028596669a35e43ede0a55"/>
+		<Material id="0" name="double_sopha_wood_right_texture"/>
+	</StaticMesh>
+	<StaticMesh name="71" label="Object004">
+		<file path="house_unwrapped_Assets/71.udsmesh"/>
+		<Size a="14733.007813" x="54.730911" y="81.022156" z="20.583143"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3389980896b8d22cb2e97364eccc43e8"/>
+		<Material id="0" name="bed_box"/>
+	</StaticMesh>
+	<StaticMesh name="72" label="Object005">
+		<file path="house_unwrapped_Assets/72.udsmesh"/>
+		<Size a="31039.605469" x="25.891479" y="870.608093" z="107.50956"/>
+		<LightmapUV value="-1"/>
+		<Hash value="51bb94e38081a589e3993c40f5accf78"/>
+		<Material id="0" name="wood_wall"/>
+	</StaticMesh>
+	<StaticMesh name="74" label="Box061">
+		<file path="house_unwrapped_Assets/74.udsmesh"/>
+		<Size a="1032582.625" x="73.674728" y="333.390991" z="381.095734"/>
+		<LightmapUV value="-1"/>
+		<Hash value="94e93240d59862316026814b7e352638"/>
+		<Material id="0" name="alhmari"/>
+	</StaticMesh>
+	<StaticMesh name="75" label="Box033">
+		<file path="house_unwrapped_Assets/75.udsmesh"/>
+		<Size a="121.685776" x="5.249939" y="11.010132" z="17.993103"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7ae2479df86fd25237a8c6f77b89d674"/>
+		<Material id="0" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="76" label="Box034">
+		<file path="house_unwrapped_Assets/76.udsmesh"/>
+		<Size a="57846.648438" x="6.864853" y="113.909882" z="66.658234"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc1b55259cc921fa5432a555e02317a4"/>
+		<Material id="0" name="tv_desktop"/>
+		<Material id="1" name="tv_plastic"/>
+		<Material id="2" name="tv_mate_plastic"/>
+		<Material id="3" name="tv_lamp_shawar_croma"/>
+	</StaticMesh>
+	<StaticMesh name="77" label="Box032">
+		<file path="house_unwrapped_Assets/77.udsmesh"/>
+		<Size a="16229.636719" x="44.032944" y="64.204315" z="1.641853"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c58d18f1a74c16b44e09d6f9a43795c9"/>
+		<Material id="0" name="tv_plastic"/>
+	</StaticMesh>
+	<StaticMesh name="78" label="Box062">
+		<file path="house_unwrapped_Assets/78.udsmesh"/>
+		<Size a="2195.461182" x="9.738861" y="23.35907" z="29.26535"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d74bca617aec38028c408419a342bde0"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="79" label="Box063">
+		<file path="house_unwrapped_Assets/79.udsmesh"/>
+		<Size a="3385.977783" x="14.332962" y="38.448456" z="28.584396"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a8fedb6147c7949bb1f4f9f3d59ce81f"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="80" label="Box064">
+		<file path="house_unwrapped_Assets/80.udsmesh"/>
+		<Size a="19923.435547" x="3.253235" y="74.347046" z="76.292191"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bc1d49766d8a866241c53b47b2a5ae02"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="81" label="Box065">
+		<file path="house_unwrapped_Assets/81.udsmesh"/>
+		<Size a="19923.427734" x="3.253235" y="74.347046" z="76.292191"/>
+		<LightmapUV value="-1"/>
+		<Hash value="047df5e0e42ef9fdbb7ee6cdb8142d00"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="82" label="Box066">
+		<file path="house_unwrapped_Assets/82.udsmesh"/>
+		<Size a="19923.462891" x="3.253235" y="74.347107" z="76.292191"/>
+		<LightmapUV value="-1"/>
+		<Hash value="82d56b3d3ff08df5fff3fe0545a74e68"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="83" label="Cylinder020">
+		<file path="house_unwrapped_Assets/83.udsmesh"/>
+		<Size a="1071.475708" x="39.43959" y="19.000723" z="82.89315"/>
+		<LightmapUV value="-1"/>
+		<Hash value="01077c496cec079c3ac542b5427ff805"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="84" label="Cylinder011">
+		<file path="house_unwrapped_Assets/84.udsmesh"/>
+		<Size a="304.624298" x="12.259827" y="11.462257" z="48.823879"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0a9bde3c93ba80acea1e946c82e921e6"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="85" label="Box037">
+		<file path="house_unwrapped_Assets/85.udsmesh"/>
+		<Size a="6025.341797" x="78.900787" y="80.500984" z="7.277355"/>
+		<LightmapUV value="-1"/>
+		<Hash value="726eed004bf5e6f8b62e2878f2babafe"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="86" label="Cylinder088">
+		<file path="house_unwrapped_Assets/86.udsmesh"/>
+		<Size a="306.789703" x="7.839951" y="14.05382" z="48.823879"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c8e3fd060028115ac2ae793353605007"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="87" label="Cylinder087">
+		<file path="house_unwrapped_Assets/87.udsmesh"/>
+		<Size a="39.251606" x="55.965591" y="27.123898" z="2.645412"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b5a3eb1daf591615f06a53070a62ac83"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="88" label="Cylinder082">
+		<file path="house_unwrapped_Assets/88.udsmesh"/>
+		<Size a="38.368324" x="3.031738" y="2.959099" z="48.204628"/>
+		<LightmapUV value="-1"/>
+		<Hash value="648395d18eaaa142a43f6fe51e0e6f50"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="89" label="Cylinder083">
+		<file path="house_unwrapped_Assets/89.udsmesh"/>
+		<Size a="39.882507" x="27.479507" y="57.127903" z="2.645666"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb5e90538a4c94e49f2c1cb22ac874d0"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="90" label="Cylinder084">
+		<file path="house_unwrapped_Assets/90.udsmesh"/>
+		<Size a="35.668049" x="27.352493" y="57.548779" z="2.406141"/>
+		<LightmapUV value="-1"/>
+		<Hash value="773c6ddc7c070e2ebbfb7c6be2f58468"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="91" label="Cylinder086">
+		<file path="house_unwrapped_Assets/91.udsmesh"/>
+		<Size a="39.284409" x="56.107071" y="26.953724" z="2.645409"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e974b9f2057f5c2baa8122943a4b7bd1"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="92" label="Box067">
+		<file path="house_unwrapped_Assets/92.udsmesh"/>
+		<Size a="11395.47168" x="79.413864" y="82.587593" z="2.294128"/>
+		<LightmapUV value="-1"/>
+		<Hash value="72b3a19e1db3e163390d6a892a2760cc"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="93" label="Cylinder021">
+		<file path="house_unwrapped_Assets/93.udsmesh"/>
+		<Size a="38.362034" x="3.031754" y="2.959091" z="48.204628"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d1fabed56a661d5d586bddabf6bed8b8"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="94" label="Cylinder010">
+		<file path="house_unwrapped_Assets/94.udsmesh"/>
+		<Size a="2248.114502" x="65.68161" y="66.413887" z="26.792427"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7d9de1e641150e8cadc22e2534ee02b2"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="95" label="Cylinder085">
+		<file path="house_unwrapped_Assets/95.udsmesh"/>
+		<Size a="1053.681885" x="39.443405" y="18.992596" z="82.89315"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c131c6cb22d95e2472861762b4775a33"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="96" label="Cylinder089">
+		<file path="house_unwrapped_Assets/96.udsmesh"/>
+		<Size a="1071.463623" x="39.439606" y="19.000488" z="82.89315"/>
+		<LightmapUV value="-1"/>
+		<Hash value="38b778eb0d26d10a933000a1d3ffe9af"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="97" label="Cylinder090">
+		<file path="house_unwrapped_Assets/97.udsmesh"/>
+		<Size a="304.623169" x="12.260056" y="11.462219" z="48.823879"/>
+		<LightmapUV value="-1"/>
+		<Hash value="efbf5e18648b043218c40a1efebe162b"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="98" label="Box068">
+		<file path="house_unwrapped_Assets/98.udsmesh"/>
+		<Size a="6025.313965" x="78.900787" y="80.500977" z="7.277355"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0f2fe0a6522a76ec62010939416b5acd"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="99" label="Cylinder091">
+		<file path="house_unwrapped_Assets/99.udsmesh"/>
+		<Size a="306.787415" x="7.839966" y="14.053833" z="48.823879"/>
+		<LightmapUV value="-1"/>
+		<Hash value="970c0b7b0aa4f9c2477b9601fe96365e"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="100" label="Cylinder092">
+		<file path="house_unwrapped_Assets/100.udsmesh"/>
+		<Size a="39.251774" x="55.965591" y="27.123901" z="2.645412"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b83b7a387bbf8489686450780f161b64"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="101" label="Cylinder093">
+		<file path="house_unwrapped_Assets/101.udsmesh"/>
+		<Size a="38.368744" x="3.031746" y="2.959106" z="48.204628"/>
+		<LightmapUV value="-1"/>
+		<Hash value="da5bfe4ac27a98ec38f41f7fb9ca665b"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="102" label="Cylinder094">
+		<file path="house_unwrapped_Assets/102.udsmesh"/>
+		<Size a="39.882824" x="27.479507" y="57.127869" z="2.645666"/>
+		<LightmapUV value="-1"/>
+		<Hash value="689c297aaa0981e29640b1dfba7b30c3"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="103" label="Cylinder095">
+		<file path="house_unwrapped_Assets/103.udsmesh"/>
+		<Size a="35.670219" x="27.352753" y="57.548767" z="2.406141"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0f8da6220f2d501e239818c5dd0fda24"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="104" label="Cylinder096">
+		<file path="house_unwrapped_Assets/104.udsmesh"/>
+		<Size a="39.285339" x="56.107086" y="26.953674" z="2.645409"/>
+		<LightmapUV value="-1"/>
+		<Hash value="04754f4da1cb6f9982c52cfe11038d85"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="105" label="Box069">
+		<file path="house_unwrapped_Assets/105.udsmesh"/>
+		<Size a="11395.482422" x="79.414116" y="82.587341" z="2.294128"/>
+		<LightmapUV value="-1"/>
+		<Hash value="220eeca1736ceed7dc6f3a6f03c231b8"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="106" label="Cylinder097">
+		<file path="house_unwrapped_Assets/106.udsmesh"/>
+		<Size a="38.362194" x="3.031494" y="2.959106" z="48.204628"/>
+		<LightmapUV value="-1"/>
+		<Hash value="de21d261130e241f21cf474873180673"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="107" label="Cylinder098">
+		<file path="house_unwrapped_Assets/107.udsmesh"/>
+		<Size a="2248.105713" x="65.68161" y="66.413879" z="26.792427"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cae69cd15c4fd4cf209614a964fddf66"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="108" label="Cylinder099">
+		<file path="house_unwrapped_Assets/108.udsmesh"/>
+		<Size a="1053.71521" x="39.443405" y="18.992554" z="82.89315"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b1993c5e191cea4cb476f0c2923a3b0d"/>
+		<Material id="0" name="01___Default"/>
+	</StaticMesh>
+	<StaticMesh name="109" label="Object007">
+		<file path="house_unwrapped_Assets/109.udsmesh"/>
+		<Size a="560951.0" x="587.104004" y="1825.303467" z="0.0"/>
+		<LightmapUV value="-1"/>
+		<Hash value="afa97c3a04f63924d0901ed2ac8e410e"/>
+		<Material id="0" name="floor"/>
+	</StaticMesh>
+	<StaticMesh name="110" label="Box070">
+		<file path="house_unwrapped_Assets/110.udsmesh"/>
+		<Size a="123723.867188" x="57.174896" y="239.410492" z="26.028393"/>
+		<LightmapUV value="-1"/>
+		<Hash value="38c650609eb0fd60a1b918e9898a96db"/>
+		<Material id="0" name="tv_s_base_floor"/>
+	</StaticMesh>
+	<StaticMesh name="111" label="Plane002">
+		<file path="house_unwrapped_Assets/111.udsmesh"/>
+		<Size a="52894.5625" x="162.515289" y="2.540009" z="92.628204"/>
+		<LightmapUV value="-1"/>
+		<Hash value="de81103c4413677b80fd4c1c4d26dac9"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="112" label="Plane003">
+		<file path="house_unwrapped_Assets/112.udsmesh"/>
+		<Size a="267715.96875" x="222.9048" y="2.540001" z="342.786194"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f9de701c43905561e7f0a0e6842a103c"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="113" label="Plane004">
+		<file path="house_unwrapped_Assets/113.udsmesh"/>
+		<Size a="286625.875" x="2.540001" y="238.649765" z="342.786194"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1573cdab7f4e7444cfb002731d211716"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="114" label="Object008">
+		<file path="house_unwrapped_Assets/114.udsmesh"/>
+		<Size a="16619.666016" x="0.0" y="111.324127" z="298.581573"/>
+		<LightmapUV value="-1"/>
+		<Hash value="612be2019525a96db2ab40e821d5d67e"/>
+		<Material id="0" name="door"/>
+	</StaticMesh>
+	<StaticMesh name="116" label="Object010">
+		<file path="house_unwrapped_Assets/116.udsmesh"/>
+		<Size a="395891.0" x="580.377014" y="1825.303467" z="0.000244"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0a8309e7998f4be6018cb6d2daefc53e"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="117" label="Object011">
+		<file path="house_unwrapped_Assets/117.udsmesh"/>
+		<Size a="418095.15625" x="0.0" y="1825.303467" z="381.710419"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f38777727c8b08c3e520b0e7b063bd76"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="119" label="Object013">
+		<file path="house_unwrapped_Assets/119.udsmesh"/>
+		<Size a="1391.790771" x="25.891479" y="0.0" z="107.50956"/>
+		<LightmapUV value="-1"/>
+		<Hash value="583a7b502f60a22e4fa830946c5baae3"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="121" label="Object014">
+		<file path="house_unwrapped_Assets/121.udsmesh"/>
+		<Size a="432434.4375" x="0.0" y="1825.303467" z="381.710419"/>
+		<LightmapUV value="-1"/>
+		<Hash value="86686837ae5de7cf887f01838daadc89"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="122" label="Object015">
+		<file path="house_unwrapped_Assets/122.udsmesh"/>
+		<Size a="3395.043457" x="6.742432" y="111.324127" z="298.581573"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f0a7e58487049529dc4ca9574ad20e0f"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="123" label="Object016">
+		<file path="house_unwrapped_Assets/123.udsmesh"/>
+		<Size a="2196.659668" x="6.742706" y="117.663216" z="298.581299"/>
+		<LightmapUV value="-1"/>
+		<Hash value="669fce8341bbc2294171325b64a340c5"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<StaticMesh name="124" label="Object017">
+		<file path="house_unwrapped_Assets/124.udsmesh"/>
+		<Size a="1391.757813" x="25.891479" y="0.0" z="107.509308"/>
+		<LightmapUV value="-1"/>
+		<Hash value="84121ff4c975dd8f504778c00b83d1c6"/>
+		<Material id="0" name="wire_115115115"/>
+	</StaticMesh>
+	<ActorMesh name="3" label="Box002" layer="0">
+		<mesh name="3"/>
+		<material id="-1" name="bed"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="4" label="Box003" layer="0">
+		<mesh name="4"/>
+		<material id="-1" name="study_table"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="5" label="Box006" layer="0">
+		<mesh name="5"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="6" label="Box015" layer="0">
+		<mesh name="6"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="7" label="Box016" layer="0">
+		<mesh name="7"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="8" label="Box018" layer="0">
+		<mesh name="8"/>
+		<material id="-1" name="alhmari"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="9" label="Box020" layer="0">
+		<mesh name="9"/>
+		<material id="0" name="tv_s_base_floor"/>
+		<material id="1" name="double_sopha_wood_right_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="10" label="Box022" layer="0">
+		<mesh name="10"/>
+		<material id="0" name="wire_115115115"/>
+		<material id="1" name="double_sopha_wood_right_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="11" label="Object002" layer="0">
+		<mesh name="11"/>
+		<material id="0" name="wire_115115115"/>
+		<material id="1" name="tv_s_base_floor"/>
+		<material id="2" name="toilet_tile"/>
+		<material id="3" name="Material__73"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="12" label="Box026" layer="0">
+		<mesh name="12"/>
+		<material id="0" name="toilet_wood_stor_2"/>
+		<material id="1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="13" label="Box027" layer="0">
+		<mesh name="13"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="14" label="Box028" layer="0">
+		<mesh name="14"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="15" label="Object003" layer="0">
+		<mesh name="15"/>
+		<material id="-1" name="toilet_wood_stor_1"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="16" label="Box029" layer="0">
+		<mesh name="16"/>
+		<material id="0" name="tv_s_back_wall"/>
+		<material id="1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="17" label="Box030" layer="0">
+		<mesh name="17"/>
+		<material id="-1" name="tv_s_base_floor"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="18" label="Box031" layer="0">
+		<mesh name="18"/>
+		<material id="-1" name="tv_s_base_floor"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="19" label="Box035" layer="0">
+		<mesh name="19"/>
+		<material id="-1" name="scenre"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="20" label="Cylinder002" layer="0">
+		<mesh name="20"/>
+		<material id="-1" name="transtucent_lamp"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="21" label="Cylinder001" layer="0">
+		<mesh name="21"/>
+		<material id="-1" name="transtucent_lamp"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="22" label="Sphere001" layer="0">
+		<mesh name="22"/>
+		<material id="-1" name="transtucent_lamp"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="23" label="Cylinder003" layer="0">
+		<mesh name="23"/>
+		<material id="-1" name="transtucent_lamp"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="24" label="Cylinder004" layer="0">
+		<mesh name="24"/>
+		<material id="-1" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="25" label="Sphere002" layer="0">
+		<mesh name="25"/>
+		<material id="-1" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="26" label="Line001" layer="0">
+		<mesh name="26"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="27" label="Box038" layer="0">
+		<mesh name="27"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="28" label="Box039" layer="0">
+		<mesh name="28"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="29" label="Box040" layer="0">
+		<mesh name="29"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="30" label="Cylinder019" layer="0">
+		<mesh name="30"/>
+		<material id="-1" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="31" label="Box041" layer="0">
+		<mesh name="31"/>
+		<material id="-1" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="32" label="Cylinder018" layer="0">
+		<mesh name="32"/>
+		<material id="-1" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="33" label="Box043" layer="0">
+		<mesh name="33"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="34" label="Box044" layer="0">
+		<mesh name="34"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="35" label="Cylinder061" layer="0">
+		<mesh name="35"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="36" label="Cylinder062" layer="0">
+		<mesh name="36"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="37" label="Cylinder059" layer="0">
+		<mesh name="37"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="38" label="Cylinder060" layer="0">
+		<mesh name="38"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="39" label="Box045" layer="0">
+		<mesh name="39"/>
+		<material id="-1" name="sopha_wood_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="40" label="Box025" layer="0">
+		<mesh name="40"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="41" label="Box019" layer="0">
+		<mesh name="41"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="42" label="Cylinder052" layer="0">
+		<mesh name="42"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="43" label="Cylinder051" layer="0">
+		<mesh name="43"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="44" label="Box023" layer="0">
+		<mesh name="44"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="45" label="Box024" layer="0">
+		<mesh name="45"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="46" label="Box046" layer="0">
+		<mesh name="46"/>
+		<material id="-1" name="double_sopha_wood_right_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="47" label="Box021" layer="0">
+		<mesh name="47"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="48" label="Cylinder053" layer="0">
+		<mesh name="48"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="49" label="Cylinder054" layer="0">
+		<mesh name="49"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="50" label="Box017" layer="0">
+		<mesh name="50"/>
+		<material id="-1" name="20___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="51" label="Box047" layer="0">
+		<mesh name="51"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="52" label="Cylinder063" layer="0">
+		<mesh name="52"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="53" label="Cylinder064" layer="0">
+		<mesh name="53"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="54" label="Cylinder065" layer="0">
+		<mesh name="54"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="55" label="Cylinder066" layer="0">
+		<mesh name="55"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="56" label="Box048" layer="0">
+		<mesh name="56"/>
+		<material id="-1" name="sopha_wood_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="57" label="Box049" layer="0">
+		<mesh name="57"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="58" label="Box050" layer="0">
+		<mesh name="58"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="59" label="Cylinder067" layer="0">
+		<mesh name="59"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="60" label="Cylinder068" layer="0">
+		<mesh name="60"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="61" label="Box051" layer="0">
+		<mesh name="61"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="62" label="Box052" layer="0">
+		<mesh name="62"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="63" label="Box053" layer="0">
+		<mesh name="63"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="64" label="Box054" layer="0">
+		<mesh name="64"/>
+		<material id="-1" name="double_sopha_wood_right_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="65" label="Box055" layer="0">
+		<mesh name="65"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="66" label="Box056" layer="0">
+		<mesh name="66"/>
+		<material id="-1" name="double_sopha_wood_right_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="67" label="Cylinder069" layer="0">
+		<mesh name="67"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="68" label="Cylinder070" layer="0">
+		<mesh name="68"/>
+		<material id="-1" name="crome"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="69" label="Box057" layer="0">
+		<mesh name="69"/>
+		<material id="-1" name="20___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="70" label="Box058" layer="0">
+		<mesh name="70"/>
+		<material id="-1" name="double_sopha_wood_right_texture"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="71" label="Object004" layer="0">
+		<mesh name="71"/>
+		<material id="-1" name="bed_box"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="72" label="Object005" layer="0">
+		<mesh name="72"/>
+		<material id="-1" name="wood_wall"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="74" label="Box061" layer="0">
+		<mesh name="74"/>
+		<material id="-1" name="alhmari"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="75" label="Box033" layer="0">
+		<mesh name="75"/>
+		<material id="-1" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="76" label="Box034" layer="0">
+		<mesh name="76"/>
+		<material id="0" name="tv_desktop"/>
+		<material id="1" name="tv_plastic"/>
+		<material id="2" name="tv_mate_plastic"/>
+		<material id="3" name="tv_lamp_shawar_croma"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="77" label="Box032" layer="0">
+		<mesh name="77"/>
+		<material id="-1" name="tv_plastic"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="78" label="Box062" layer="0">
+		<mesh name="78"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="79" label="Box063" layer="0">
+		<mesh name="79"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="80" label="Box064" layer="0">
+		<mesh name="80"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="81" label="Box065" layer="0">
+		<mesh name="81"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="82" label="Box066" layer="0">
+		<mesh name="82"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="83" label="Cylinder020" layer="0">
+		<mesh name="83"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="84" label="Cylinder011" layer="0">
+		<mesh name="84"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="85" label="Box037" layer="0">
+		<mesh name="85"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="86" label="Cylinder088" layer="0">
+		<mesh name="86"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="87" label="Cylinder087" layer="0">
+		<mesh name="87"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="88" label="Cylinder082" layer="0">
+		<mesh name="88"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="89" label="Cylinder083" layer="0">
+		<mesh name="89"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="90" label="Cylinder084" layer="0">
+		<mesh name="90"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="91" label="Cylinder086" layer="0">
+		<mesh name="91"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="92" label="Box067" layer="0">
+		<mesh name="92"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="93" label="Cylinder021" layer="0">
+		<mesh name="93"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="94" label="Cylinder010" layer="0">
+		<mesh name="94"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="95" label="Cylinder085" layer="0">
+		<mesh name="95"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="96" label="Cylinder089" layer="0">
+		<mesh name="96"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="97" label="Cylinder090" layer="0">
+		<mesh name="97"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="98" label="Box068" layer="0">
+		<mesh name="98"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="99" label="Cylinder091" layer="0">
+		<mesh name="99"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="100" label="Cylinder092" layer="0">
+		<mesh name="100"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="101" label="Cylinder093" layer="0">
+		<mesh name="101"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="102" label="Cylinder094" layer="0">
+		<mesh name="102"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="103" label="Cylinder095" layer="0">
+		<mesh name="103"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="104" label="Cylinder096" layer="0">
+		<mesh name="104"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="105" label="Box069" layer="0">
+		<mesh name="105"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="106" label="Cylinder097" layer="0">
+		<mesh name="106"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="107" label="Cylinder098" layer="0">
+		<mesh name="107"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="108" label="Cylinder099" layer="0">
+		<mesh name="108"/>
+		<material id="-1" name="01___Default"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="109" label="Object007" layer="0">
+		<mesh name="109"/>
+		<material id="-1" name="floor"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="110" label="Box070" layer="0">
+		<mesh name="110"/>
+		<material id="-1" name="tv_s_base_floor"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="111" label="Plane002" layer="0">
+		<mesh name="111"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="112" label="Plane003" layer="0">
+		<mesh name="112"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="113" label="Plane004" layer="0">
+		<mesh name="113"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="114" label="Object008" layer="0">
+		<mesh name="114"/>
+		<material id="-1" name="door"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="116" label="Object010" layer="0">
+		<mesh name="116"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="117" label="Object011" layer="0">
+		<mesh name="117"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="119" label="Object013" layer="0">
+		<mesh name="119"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="121" label="Object014" layer="0">
+		<mesh name="121"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="122" label="Object015" layer="0">
+		<mesh name="122"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="123" label="Object016" layer="0">
+		<mesh name="123"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<ActorMesh name="124" label="Object017" layer="0">
+		<mesh name="124"/>
+		<material id="-1" name="wire_115115115"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+	</ActorMesh>
+	<Texture name="Map__21_Cellular_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__21_Cellular.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__22_Raytrace_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__22_Raytrace.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__36_Mix_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__36_Mix.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__14_Checker_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__14_Checker.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__4_Mix_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__4_Mix.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__40_Mix_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__40_Mix.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__43_Noise_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__43_Noise.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__19_Noise_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__19_Noise.tga">
+		<Hash value=""/>
+	</Texture>
+	<Texture name="Map__20_Raytrace_2_2_Tex" texturemode="5" rgbcurve="1.000000" file="house_unwrapped_Assets/Map__20_Raytrace.tga">
+		<Hash value=""/>
+	</Texture>
+	<Material name="bed" label="bed">
+		<Shader name="bed">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.09" G="0.09" B="0.09"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="study_table" label="study_table">
+		<Shader name="study_table">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="wire_115115115" label="wire_115115115">
+		<Shader name="wire_115115115">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.451" G="0.451" B="0.451"/>
+			<Reflectancecolor R="0.35" G="0.35" B="0.35"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="alhmari" label="alhmari">
+		<Shader name="alhmari">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.468" G="0.468" B="0.468"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="tv_s_base_floor" label="tv_s_base_floor">
+		<Shader name="tv_s_base_floor">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffuse tex="Map__21_Cellular_2_2_Tex" coordinate="0" sx="1.0" sy="1.0" ox="0.0" oy="0.0" mx="0" my="0" rot="0.0" mul="1.0" channel="0" inv="0" cropped="0"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="double_sopha_wood_right_texture" label="double_sopha_wood_right_texture">
+		<Shader name="double_sopha_wood_right_texture">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.189" G="0.189" B="0.189"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="toilet_tile" label="toilet_tile">
+		<Shader name="toilet_tile">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.588" G="0.588" B="0.588"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="Material__73" label="Material__73">
+		<Shader name="Material__73">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.588" G="0.588" B="0.588"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="toilet_wood_stor_2" label="toilet_wood_stor_2">
+		<Shader name="toilet_wood_stor_2">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.036" G="0.036" B="0.036"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="toilet_wood_stor_1" label="toilet_wood_stor_1">
+		<Shader name="toilet_wood_stor_1">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.027" G="0.027" B="0.027"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="tv_s_back_wall" label="tv_s_back_wall">
+		<Shader name="tv_s_back_wall">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.117" G="0.117" B="0.117"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="scenre" label="scenre">
+		<Shader name="scenre">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.018" G="0.018" B="0.018"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="transtucent_lamp" label="transtucent_lamp">
+		<Shader name="transtucent_lamp">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="1.0" G="0.9137" B="0.7922"/>
+			<Reflectancecolor R="0.018" G="0.018" B="0.018"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="tv_lamp_shawar_croma" label="tv_lamp_shawar_croma">
+		<Shader name="tv_lamp_shawar_croma">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.846" G="0.846" B="0.846"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="01___Default" label="01___Default">
+		<Shader name="01___Default">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffuse tex="Map__14_Checker_2_2_Tex" coordinate="0" sx="1.0" sy="1.0" ox="0.0" oy="0.0" mx="0" my="0" rot="0.0" mul="1.0" channel="0" inv="0" cropped="0"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="crome" label="crome">
+		<Shader name="crome">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.729" G="0.729" B="0.729"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="sopha_wood_texture" label="sopha_wood_texture">
+		<Shader name="sopha_wood_texture">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.189" G="0.189" B="0.189"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="20___Default" label="20___Default">
+		<Shader name="20___Default">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.189" G="0.189" B="0.189"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="bed_box" label="bed_box">
+		<Shader name="bed_box">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.09" G="0.09" B="0.09"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="wood_wall" label="wood_wall">
+		<Shader name="wood_wall">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="tv_desktop" label="tv_desktop">
+		<Shader name="tv_desktop">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="tv_plastic" label="tv_plastic">
+		<Shader name="tv_plastic">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.0" G="0.0" B="0.0"/>
+			<Reflectancecolor R="0.135" G="0.135" B="0.135"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="tv_mate_plastic" label="tv_mate_plastic">
+		<Shader name="tv_mate_plastic">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffuse tex="Map__43_Noise_2_2_Tex" coordinate="0" sx="1.0" sy="1.0" ox="0.0" oy="0.0" mx="0" my="0" rot="0.0" mul="1.0" channel="0" inv="0" cropped="0"/>
+			<Reflectancecolor R="0.018" G="0.018" B="0.018"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="floor" label="floor">
+		<Shader name="floor">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffuse tex="Map__19_Noise_2_2_Tex" coordinate="0" sx="1.0" sy="1.0" ox="0.0" oy="0.0" mx="0" my="0" rot="0.0" mul="1.0" channel="0" inv="0" cropped="0"/>
+			<Reflectancecolor R="0.684" G="0.684" B="0.684"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Material name="door" label="door">
+		<Shader name="door">
+			<IORRefraction value="1.5"/>
+			<Bumpval value="1.0"/>
+			<Diffusecolor R="0.5882" G="0.5882" B="0.5882"/>
+			<Reflectancecolor R="0.126" G="0.126" B="0.126"/>
+			<Roughnessval value="0.9" desc="Roughness"/>
+		</Shader>
+	</Material>
+	<Export Duration="8"/>
+</DatasmithUnrealScene>
