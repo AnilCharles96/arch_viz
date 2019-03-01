@@ -1,7 +1,7 @@
 # arch_viz
 architecture visualization of an interior house
 
-3d model is from turbosquid(free) 
+3d model is from free3d.com
 
 uv's are unwrapped in 3ds max
 
