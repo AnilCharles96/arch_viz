@@ -9,7 +9,6 @@ using unreal datasmith for the workflow
 
 most of the materials are from substance
 
-# work in progress
 
 rendered on preview build 
 ![highresscreenshot00001](https://user-images.githubusercontent.com/43022435/53590103-0e828700-3bb7-11e9-917f-194adb37905b.png)
